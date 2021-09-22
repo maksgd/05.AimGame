@@ -1,5 +1,5 @@
 # AimGame
-[Результат](https://maksgd.github.io/05.AimGame/)
+[Результат](https://maksgd.github.io/Aim_Game/)
 ***
 Интерактивная игра в браузере. Реализована на чистом JS без доп. библиотек. 
 
